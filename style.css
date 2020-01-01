@@ -1,0 +1,47 @@
+
+body{
+    background-color: aliceblue;
+    text-align: justify;
+    font-family: 'The Girl Next Door';font-size: 22px;
+    font-size: 25px;
+    font-weight: 15px;
+  }
+
+
+
+#main {
+    width: 80%;
+    margin-left: 5%;
+}
+
+#main p {
+    margin-left: 10%;
+    width: 80%;
+}
+
+
+
+  h1{
+    padding: 50px;
+    font-size: 40px;
+    background-color: darkblue;
+    color: aliceblue;
+    text-align: center;
+  }
+  
+  img {
+
+    max-width: 300px;
+    max-height: 200px;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #img-caption{
+    font-size: small;
+    text-align: center;
+  }
+  #last{
+    text-align: center;
+  }
